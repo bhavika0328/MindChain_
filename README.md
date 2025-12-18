@@ -142,8 +142,8 @@ MindChain/
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/aditya-gg04/MindChain.git
-   cd MindChain
+   git clone https://github.com/bhavika0328/MindChain_.git
+   cd MindChain_
    ```
 
 2. **Frontend Setup:**
@@ -184,29 +184,7 @@ MindChain/
 
 ---
 
-## 👥 Team
 
-<div align="center">
-
-| <img src="https://github.com/Lakshya0000.png" alt="Lakshya Agarwal" width="100" height="100" style="border-radius:50%"/> | <img src="https://github.com/aditya-gg04.png" alt="Aditya Gunjkar" width="100" height="100" style="border-radius:50%"/> | <img src="https://github.com/nachiketdeore09.png" alt="Nachiket Deore" width="100" height="100" style="border-radius:50%"/> |
-| :----------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------: |
-|                                                   **Lakshya Agarwal**                                                    |                                                   **Aditya Gunjkar**                                                    |                                                     **Nachiket Deore**                                                      |
-|                                                  Frontend & Blockchain                                                   |                                                    Frontend & UI/UX                                                     |                                                       Smart Contracts                                                       |
-|                                         [GitHub](https://github.com/Lakshya0000)                                         |                                        [GitHub](https://github.com/aditya-gg04)                                         |                                        [GitHub](https://github.com/nachiketdeore09)                                         |
-
-</div>
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-<p align="center">
-  <b>Be kind to your mind, it will be fine.</b>
-</p>
 
 <div align="center">
 
